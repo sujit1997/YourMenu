@@ -1,11 +1,11 @@
-# 🌾 YourMenu Automation Framework
+# 🏨 YourMenu Automation Framework
 
 This repository contains the **automation testing framework** for the **YourMenu** web application.  
 It is built using **Java**, **Selenium WebDriver**, **Cucumber (BDD)**, and **Maven** for effective, scalable, and maintainable test automation.
 
 ---
 
-## 🏬 About KrushiStore
+## 🏬 About YourMenu
 
 **YourMenu** is an Restaurant Management platform designed to help customer and hospitality businesses to reserve or book hotel services online.  
 It aims to bridge the gap between customer, restaurant employee, and restaurant owner by providing easy access to book a table, Scan a menu, book a room all in one place.
