@@ -1,4 +1,4 @@
-# 🏨 YourMenu Automation Framework
+# 🌇 YourMenu Automation Framework
 
 This repository contains the **automation testing framework** for the **YourMenu** web application.  
 It is built using **Java**, **Selenium WebDriver**, **Cucumber (BDD)**, and **Maven** for effective, scalable, and maintainable test automation.
