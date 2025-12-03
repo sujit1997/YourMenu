@@ -1,1 +1,0 @@
-// link https://hotel-example-site.takeyaqa.dev/en-US/index.html
