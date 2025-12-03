@@ -1,5 +1,4 @@
-package resources;
-
+package TS_001;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -18,8 +17,8 @@ public class TS_01_TC_001_BrowserLoading {
             driver = new ChromeDriver();
         }
         else if (browser.equalsIgnoreCase("firefox")){
-        WebDriverManager.firefoxdriver().setup();
-        driver = new FirefoxDriver();
+            WebDriverManager.firefoxdriver().setup();
+            driver = new FirefoxDriver();
         } else if (browser.equalsIgnoreCase("edge")) {
             WebDriverManager.edgedriver().setup();
             driver = new EdgeDriver();
